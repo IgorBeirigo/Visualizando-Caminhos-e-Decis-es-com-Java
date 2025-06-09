@@ -11,7 +11,6 @@ Este projeto simula um sistema de rotas entre cidades usando três pilares da ci
 
 A aplicação é feita em **Java puro** e funciona via **interface de linha de comando (CLI)**.
 
----
 
 ---
 
