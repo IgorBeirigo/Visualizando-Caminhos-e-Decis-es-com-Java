@@ -43,13 +43,11 @@ A aplicação é feita em **Java puro** e funciona via **interface de linha de c
 Objetivo Educacional
 Consolidar o conhecimento em estruturas de dados e algoritmos por meio de um projeto prático e aplicável no mundo real.
 
-💡 Aprendizados
-Algoritmo de Dijkstra na prática
-
-Diferenças e aplicações entre BST e AVL
-
-Estruturação modular em Java
-
-Pensamento algorítmico aplicado
+## 💡 Aprendizados
+- Implementação prática do Algoritmo de Dijkstra
+- Compreensão das diferenças e aplicações entre BST e AVL
+- Estruturação modular em Java
+- Pensamento algorítmico aplicado
+- Escalabilidade: Sistema preparado para crescer com mais cidades e rotas
 
 

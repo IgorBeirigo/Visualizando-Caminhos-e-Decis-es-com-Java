@@ -42,12 +42,12 @@ public class Main {
 
     private static void exibirMenu() {
         System.out.println("\n=== MENU ===");
-        System.out.println("1. Adicionar cidade");
-        System.out.println("2. Conectar cidades");
-        System.out.println("3. Ver todas as cidades");
-        System.out.println("4. Calcular menor caminho");
-        System.out.println("5. Ver histórico de caminhos");
-        System.out.println("6. Sair");
+        System.out.println("1- Adicionar cidade");
+        System.out.println("2- Conectar cidades");
+        System.out.println("3- Ver todas as cidades");
+        System.out.println("4- Calcular menor caminho");
+        System.out.println("5- Ver histórico de caminhos");
+        System.out.println("6- Sair");
         System.out.print("Escolha uma opção: ");
     }
 
