@@ -1,10 +1,56 @@
 # Visualizando-Caminhos-e-Decisões-com-Java
-Criar uma aplicação Java com interface simples (CLI ou GUI com JavaFX/Swing) que:
+# 🗺️ Maps & Minds - Java Structures in Action
 
-Mostra um grafo com cidades e conexões (arestas com pesos).
+## 🚀 Descrição do Projeto
 
-Usa algoritmos como Dijkstra para encontrar o menor caminho.
+Este projeto simula um sistema de rotas entre cidades usando três pilares da ciência da computação:
 
-Usa uma árvore binária para simular decisões ou caminhos registrados.
+- Teoria dos Grafos (com Dijkstra)
+- Árvores Binárias de Busca (BST)
+- Árvores AVL (Auto Balanceadas)
 
-Usa uma árvore AVL para armazenar dados com balanceamento (por exemplo, nomes de cidades, tempos de viagem, etc.).
+A aplicação é feita em **Java puro** e funciona via **interface de linha de comando (CLI)**.
+
+---
+
+---
+
+## 🧠 Conceitos Utilizados
+
+### 📌 Teoria dos Grafos
+- Lista de adjacência
+- Algoritmo de Dijkstra
+- Aplicação: encontrar o menor caminho entre cidades
+
+### 🌳 Árvore Binária de Busca (BST)
+- Armazena rotas percorridas
+- Permite inserção, busca e exibição de histórico
+
+### 🌲 Árvore AVL
+- Armazena os nomes das cidades em ordem alfabética
+- Balanceamento automático para buscas rápidas
+
+---
+
+## 📋 Funcionalidades
+
+- ✅ Adicionar cidade
+- ✅ Conectar cidades com distância
+- ✅ Listar cidades (AVL)
+- ✅ Calcular menor caminho entre duas cidades
+- ✅ Ver histórico de caminhos (BST)
+
+---
+Objetivo Educacional
+Consolidar o conhecimento em estruturas de dados e algoritmos por meio de um projeto prático e aplicável no mundo real.
+
+💡 Aprendizados
+Algoritmo de Dijkstra na prática
+
+Diferenças e aplicações entre BST e AVL
+
+Estruturação modular em Java
+
+Pensamento algorítmico aplicado
+
+
