@@ -1,4 +1,4 @@
-# Visualizando-Caminhos-e-Decisôes-com-Java
+# Visualizando-Caminhos-e-DecisÕes-com-Java
 Criar uma aplicação Java com interface simples (CLI ou GUI com JavaFX/Swing) que:
 
 Mostra um grafo com cidades e conexões (arestas com pesos).
